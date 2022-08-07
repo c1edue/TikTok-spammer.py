@@ -1,3 +1,3 @@
 # TikTok-spammer.py
 make fake activity on account
-DO NOT USE IT!
+do not work... tik tok have safeguard(
