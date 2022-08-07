@@ -19,7 +19,7 @@ ua = UserAgent()
 opts.add_argument('headless')
 opts.add_argument('--no-sandbox')
 opts.add_argument(f"user-agent={ua.opera}")
-chromedriver = '/home/c1edue/Рабочий стол/tg-alert.py/chromedriver'
+chromedriver = ''
 #options.headless = True
 browser = webdriver.Chrome(chromedriver,options=opts)
 def main():
